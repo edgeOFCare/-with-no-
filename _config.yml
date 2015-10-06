@@ -9,7 +9,7 @@ name: edgeofcare
 description: MA Anthropology/Digitial Humanities at Carleton
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://instagram.com/p/7vi3X0rAfV/?taken-by=justinlangille
+avatar: https://instagram.com/p/7vi3X0rAfV/?taken-by=justinlangille
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:https://instagram.com/justinlangille/?ref=badge
+  instagram: https://instagram.com/justinlangille/?ref=badge
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
